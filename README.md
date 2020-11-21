@@ -4,7 +4,7 @@ Homework-06 Weather Dashboard
 ## Homework-6 Weather-Dashboard
 
 * ['Weather-Dashboard - Github']()
-* ['Weather-Dashboard - Github IO']()
+* ['Weather-Dashboard - Github IO'](https://nasgenius.github.io/homework-06/)
 * ['Weather-Dashboard - Demo']()
 
 
